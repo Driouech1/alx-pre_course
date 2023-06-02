@@ -1,3 +1,3 @@
-<<<<<<< HEAD
+
 this is Imane
 
